@@ -43,7 +43,8 @@ helllllllo
 
 
 ![Picture link test](./InfoFolder/turing.jpg)
+```
 turing is fucking God
-
+```
 ---------
 [md link test](./InfoFolder/test.md)
