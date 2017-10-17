@@ -42,4 +42,5 @@ Actually ~~it is not~~
 helllllllo
 
 
-[Picture test](./InfoFolder/turing.jpg)
+[Picture link test](./InfoFolder/turing.jpg)
+[md link test](./InfoFolder/test.md)
