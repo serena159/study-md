@@ -43,5 +43,5 @@ helllllllo
 
 
 [Picture link test](./InfoFolder/turing.jpg)
-
-![md link test](./InfoFolder/test.md)
+---------
+![ex_screenshot](./InfoFolder/test.md)
