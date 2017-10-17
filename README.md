@@ -42,6 +42,6 @@ Actually ~~it is not~~
 helllllllo
 
 
-[Picture link test](./InfoFolder/turing.jpg)
+![Picture link test](./InfoFolder/turing.jpg)
 ---------
-![ex_screenshot](./InfoFolder/test.md)
+[md link test](./InfoFolder/test.md)
