@@ -29,10 +29,10 @@ Actually ~~it is not~~
 
 ## Hey
 ### Title
-   1. fuck
-   2. sex
-   3. haha
-   4. lol
+1. fuck
+2. sex
+3. haha
+4. lol
 
 
 [Link Title](https://www.naver.com/)
