@@ -23,8 +23,4 @@ Actually ~~it is not~~
 * test desc 0 
 * test desc 1
 
-> 인용문 test
-  1. hello
-  2. hello 0
-  > hello
-    1. real hello
+> This is a 인용문
