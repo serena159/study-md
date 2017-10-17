@@ -40,3 +40,6 @@ Actually ~~it is not~~
 
 ---
 helllllllo
+
+
+[Picture test](./InfoFolder/turing.jpg)
